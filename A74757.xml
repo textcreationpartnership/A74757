@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A demurre to the bill for preventing the growth and spreading of heresie. Humbly presented to the Honourable House of Commons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74757</idno>
+            <idno type="STC">Thomason E356_5</idno>
+            <idno type="STC">ESTC R201134</idno>
+            <idno type="EEBO-CITATION">99861685</idno>
+            <idno type="PROQUEST">99861685</idno>
+            <idno type="VID">113826</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113826)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E356[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A demurre to the bill for preventing the growth and spreading of heresie. Humbly presented to the Honourable House of Commons.</title>
+                  <author>Walwyn, William, 1600-1681,</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to William Walwyn. Cf. McMichael and Taft, The writings of William Walwyn, pp.236-7.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Octob: 7th 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Heresy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="demurral">
+            <pb facs="tcp:113826:1" rendition="simple:additions"/>
+            <head>A DEMVRRE TO THE BILL FOR PRE<g ref="char:EOLhyphen"/>VENTING THE GROWTH AND SPREADING OF HERESIE. Humbly Preſented to the Honourable the <hi>Houſe of Commons.</hi>
+            </head>
+            <p>WEE beſeech you for the great love you have from the people, that you will be cautious in determining a<g ref="char:EOLhyphen"/>ny thing in this buſineſſe of blaſphemy &amp; hereſie; and that you will reſolve to doe nothing therein, but what ſhall evidently appeare to be juſt and agreeable to the word of God.</p>
+            <p>Our feares are great; that thoſe who urge you ſo much to ſup<g ref="char:EOLhyphen"/>preſſe hereſies and blaſphemies, have their own unjuſt ends therein, and the enſlaving of the people to their wils: To eſtrange their affe<g ref="char:EOLhyphen"/>ctions from you; and to make them out of love with Parliaments.</p>
+            <p>For what is it you are urged unto; but in effect to eſtabliſh a very in<g ref="char:EOLhyphen"/>quiſition, to be as a curb to all thoſe that oppoſe the doctrines and op<g ref="char:EOLhyphen"/>pinions of the miniſters, or will not without reaſonings or diſputings ſubmit their faith, practiſe and purſes to their wils.</p>
+            <p>It is not to be ſuppoſed but that theſe deſires and motions, have their riſe and birth from them, whoſe purpoſe it is to make you In<g ref="char:EOLhyphen"/>ſtruments of their cruelty; certainly they have digged deep, and are grown confident you are fully underminded; they judge you believe
+<pb n="2" facs="tcp:113826:2"/> you are; and that you are ſo fully captivated by their policies and ſtra<g ref="char:EOLhyphen"/>tagems, that you dare not but doe what they deſire? though never ſo unjuſt or diſtructive to your ſelves.</p>
+            <p>It cannot be; they ſhould think you ſo ignorant as to believe they make theſe deſires out of zeale to God, to Chriſt or his word; they are aſſured, you not only doubt, but know they doe it only to make you inſtruments, to ſubject the people to their no leſſe then popall ty<g ref="char:EOLhyphen"/>rany, they know you know it to be ſo, and think they have you upon ſuch a lock as you dare not deny them.</p>
+            <p>But will you now feare the power of a Clergy, ſo lately raiſed out of the duſt by your ſelves; when neither the power of the Court; and a long ſetled Clergy united, hath been able to ſtand before you; there is nothing for this Parliament now to feare but God.</p>
+            <p>The Clergy doe but preſume, and like the Prelates doe things haſti<g ref="char:EOLhyphen"/>ly, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t will ſpeedily make them odious, and be their ruine.</p>
+            <p>The people already generally ſee through them, they have waigh<g ref="char:EOLhyphen"/>ed them in the ballance and find them light, adeluſive, coveteous<g ref="char:punc">▪</g> vi<g ref="char:EOLhyphen"/>olent, bloody, imperious ſort of men, no more like the Apoſtles or Diſciples of Chriſt, then <hi>Simon Magus</hi> was; there is nothing ſo much in diſcourſe as their pride and coveteouſneſſe: That it is they who ſet Nation againſt Nation, and neighbour againſt neighbour, and to have their will, ſet even all the People together by the eares; their craft and pollicies are worne threed-bare, and their credits and reputations is grown low in the Peoples eſteem, and therefore doe they make haſt unto you for ſome reall power.</p>
+            <p>And becauſe they would prevaile, they ſeem to be advocates for God, for Chriſt, for his word, for the precious ſoules of men<g ref="char:punc">▪</g> transfor<g ref="char:EOLhyphen"/>ming themſelves into this ſhape of angels of light, in hope to deceive the very Parliament it ſelfe.</p>
+            <p>Wee beſeech you to looke upon them without dread, without ſu<g ref="char:EOLhyphen"/>perſtition; with open eyes, ſee through them to their ends, and you will ſee they mind only themſelves, to ſet themſelves above you, to trample up<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the People, who yet truſt you will preſerve them from ſo great a bondage.</p>
+            <p>1. Firſt for their deſire concerning hereſie: for I preſume I may ſafely call them theirs firſt: for it is not probable they know any per<g ref="char:EOLhyphen"/>ſon that doe deny and maintaine there is no God, if any ſuch were they would no doubt ere this time have been brought to light, by theſe ſearching inquiſitive Church men: their purpoſe in this parti<g ref="char:EOLhyphen"/>cular
+<pb n="3" facs="tcp:113826:2"/> ſeems to be no other then to keep men in awe &amp; feare of affrun<g ref="char:EOLunhyphen"/>ting them in their arguments, to have advantages againſt any tha hold any ſet diſcourſes, and to beget in men a ſuperſtitious beliefe of any thing they ſay, without any examination of their grounds and reaſons.</p>
+            <p>2. In caſe any being ignorant, maintaine the contrary, can it be judged in wiſdome or juſtice, an equall thing that they ſhould there<g ref="char:EOLhyphen"/>fore be diſcharged? Would it not farre better become us to endevour the enlightening of their underſtanding, or to waite Gods leaſure till he doe it in his due time, rather then by their death to make ſure that it ſhall never be done.</p>
+            <p>3. Men are not borne with the knowledge of this more then of a<g ref="char:EOLhyphen"/>ny other thing; it muſt therefore either be infuſed by God, or begot<g ref="char:EOLhyphen"/>en in us by diſcourſe and examination as other things are; if it be in<g ref="char:EOLhyphen"/>fuſed, we muſt waite Gods time; his ſeaſon is not the ſame for all, though happily one mans underſtanding may be opened at the firſt or ſecond houre, another may not till the eleventh or laſt houre.</p>
+            <p>If by diſcourſe and examination; then every man muſt have liber<g ref="char:EOLhyphen"/>ty to diſcourſe there upon; to propoſe doubts, to give and take ſatiſ<g ref="char:EOLhyphen"/>faction, to ſcruple, argue, or doe any thing that may firmely eſtabliſh our minds in this prime and fundamentall truth.</p>
+            <p>4. Wee beſeech you let not God and the truth of this being, be ſo exceſſively diſparaged as not to be judged ſufficient to maintaine it againſt all gainſayers, without the help of earthly power to maintain it; Let <hi>Turkes</hi> and thoſe that believe in ſtrange gods, which are indeed no gods: make uſe of ſuch poore and infirme ſupporters of their ſup<g ref="char:EOLhyphen"/>poſed deities; but let the truth of our God, the only God, the omni<g ref="char:EOLhyphen"/>potent God, be judged aboundantly; able to ſupport it ſelfe; tis a ta<g ref="char:EOLhyphen"/>cite imputation of infirmneſſe, to imagine it hath need of our weak and impotent aſſiſtance.</p>
+            <p>5. If there be any feare that for want of ſuch a terrour and penal<g ref="char:EOLhyphen"/>ty as is deſired, men will take greater liberty to be vicious; Let the ſtrictneſſe and ſeverity of law be multiplied tenfold againſt all man<g ref="char:EOLhyphen"/>ner of vice and enormity: Let ſome courſe be taken and charge given to the publique ſpeakers, that they ſpend leſſe time about controver<g ref="char:EOLhyphen"/>ſies and entrigate diſputes; and divert the ſtreame of their diſcour<g ref="char:EOLhyphen"/>ſes againſt the uglineſſe of vice, and let forth the lovelineſſe and ex<g ref="char:EOLhyphen"/>cellency of vertue and true piety<g ref="char:punc">▪</g> that ſo all men may be inamoured therewith, and hate whatſoever is vicious with a perfect hatred.</p>
+            <pb n="4" facs="tcp:113826:3"/>
+            <p>Concerning thoſe that deny the vnity of God: His eternity, pre<g ref="char:EOLhyphen"/>ſence or omnipotency; the divinity of Chriſt the purity of his man<g ref="char:EOLhyphen"/>hood: the diſtruction of the two natures: the ſufficiency of his death, and ſuffering for the ſatisfaction for our ſins: the Trinity: reſurrection, or judgement to come: or any other poſition mentioned in the former part of the deſired Ordinance.</p>
+            <p>Thoſe Miſerable men I ſay, that through ignorance maintain<g ref="char:punc">▪</g> a<g ref="char:EOLhyphen"/>ny of theſe particulers: muſt they therefore be put to death? Is there no way to cure the blindneſſe of their underſtandings, but by taking a<g ref="char:EOLhyphen"/>way that and life together? Is it not miſery ſufficient to theſe unhappy men that they are deprived of that knowledge, which is the principle comfort of this life: a ſupport to us in afliction, the joy and ſolace of our ſoules?</p>
+            <p>But muſt they for this their infirm filicity looſe their lives alſo? What precept I pray have wee for ſo doing? What command or Authority from Scripture? Was there ever any injunction given by Chriſt or his Apoſtles for the extirpation of the <hi>Romans</hi> or any others that denyed our God; and multiplyed other feighned gods to themſelves? Can we think the name of God was leſſe precious to Chriſt or his Diſci<g ref="char:EOLhyphen"/>ples then it is to us? The Apoſtles way was to make the unknowne God, to be known to ignorant men; to remove errour by the ſword of the Spirit and ſoundneſſe of argument; not by puniſhment or death: If worldly ſtrength had been judged the beſt and meereſt way for the implanting the Goſpell<g ref="char:punc">▪</g> God would with<g ref="char:punc">▪</g> a word have furniſhed his ſervants there with: He could have choſe to him out of the greateſt and moſt potent upon the earth, or have made the Apoſtles: which ſeeing he did not, it evidently ſheweth that his truthes are not to be propagated by ſtrength and the ſword: Nay we ſee rather it was his way to give all errours the advantage of worldly power, and truſt the eſtabliſhment and ſupport of truth to its own effecacy, upon aſſurance whereof, he ſent it abroad by meſſengers of meane conditi<g ref="char:EOLhyphen"/>on, of no power in the world, as propoſing it as his end to convince, not to compell, to conquour the underſtanding by the glorious and ſhining brightneſſe of truth: and not ſubdue it by force of armes, by fire and faggot, by the hatchet or halter: Chriſt and his Diſciples were frequently with the <hi>Sadduces,</hi> that denyed the reſurrection, and by conſequence the Iudgement to come: yet wee find not that they ever Inſtigated the Magiſtrate againſt them: and though there were here<g ref="char:EOLhyphen"/>ſies in their times, as many and as groſſe as there are ſaid now to be;
+<pb n="4" facs="tcp:113826:3"/> yet our bleſſed Saviour ſhewes no zeale againſt them; the moſt that e<g ref="char:EOLhyphen"/>ver he expreſt was againſt hypocriſie: the oppreſſion of the <hi>Phariſes,</hi> the cruelty of <hi>Herod,</hi> the pride and imperious maſtery of the <hi>Scribes</hi> and Doctors of the Law: for Matters of opinion there was a tolerati<g ref="char:EOLhyphen"/>on no man was moleſted: and it is exceedingly to the honour of Chriſtianity: Yet of it ſelfe notwithſtanding its low beginnings and deſpicable appearance at firſt, through the inherent and eſſentiall ex<g ref="char:EOLhyphen"/>cellency and power that inſeperably accompanies it, it was able to e<g ref="char:EOLhyphen"/>rect it ſelfe, and ſpread its branches about a great part of the world: let us not therefore make uſe of other meanes then Chriſt uſed; nor flee to thoſe poore, refuges of civill power, which he purpoſely avoi<g ref="char:EOLhyphen"/>ded<g ref="char:punc">▪</g> let us not now caſt a blemiſh upon our profeſſion: Let us not now undervalue it, by thinking it cannot ſtand without crutches, or that errour unleſſe the Magiſtrate aſſiſt, will be to hard for it.</p>
+            <p>For blaſphemy, if thereby be ment, a reviling or ſpeaking evill of God, his Chriſt or his word; It is but meet that ſome fit puniſhment (as the word clearely imparts 1. <hi>Tim. 1. chap. &amp; 20. ver.</hi> compared with 2. <hi>Pet. 2. 10. Judg.</hi> 8. 10.) ſhould be appointed for reſtraining thereof, as alſo for any other evill and reproachfull language, againſt either men or opinions: though reaſon and argument is allowable and neceſſary for the finding out of truth, yet reviling railing, bitter taunts, and reproches, tends to the diſturbance of civill peace, and proceeds from a maligne and a diſtempered mind, and are therefore juſtly reſtrainable; But ſurely the puniſhment mentioned of burning in the cheeke with a hot Iron, is to rigorous and ſevere, I ſhall not preſcribe, but leave it to your diſcretion.</p>
+            <p>For the ſuppoſed errours ſummed up in the latter part of the deſired Ordinance, though many of them are diſallowed by all, yet ſome of them are eſteemed truths by the Anabaptiſts, ſome by the Browniſts; ſome by the Independents, ſome by the Antinomians, and ſome by all of them: And ſuch truths as they doe as really eſteem themſelves bound to maintaine, as the Presbyterians doe any of their tenets, this Ordinance therefore is like a inſurrection of one ſort of men againſt another, the pur port and deſires thereof in effect being that all the Independents, the Browniſts, the Antinomians, the Anabaptiſts that have ſo much courage left, as to hold faſt that which they account good, ſhould be impriſoned till they can find two ſubſity men that will be ſureties for them, that they ſhall never profeſſe nor practice<g ref="char:punc">▪</g> what they eſteem truth any more<g ref="char:punc">▪</g>
+            </p>
+            <pb n="6" facs="tcp:113826:4"/>
+            <p>Have theſe ſorts of men been invited (though indeed they needed n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> invitation) to venture their lives and eſtates for their Country; and is this the reward? What could theſe good mens perſons have been worſe<g ref="char:punc">▪</g> had they been conquered by the Enemy? Since if this Or<g ref="char:EOLhyphen"/>dinance takes effect, they muſt lead the remainder of their lives in a priſon; and after they have got the victory be caſt into bonds: I can<g ref="char:EOLhyphen"/>not perſwade my ſelfe but that the Presbyters themſelves, the ingeni<g ref="char:EOLhyphen"/>ous I meane and meekly diſpoſed amongſt them, muſt utterly diſlike this m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, as ſavouring not only of ingratitude and inhumanity, but of injuſtice; neither can I think but that the Honourable Houſe of Commons will ſhew tenderneſſe to thoſe ſorts of men, from whom they have had reall affection, aſſiſtance protection, beſides ma<g ref="char:EOLhyphen"/>ny excellent ſervices and performances: and expreſſe no other then a deteſtation of ſuch imperious and unequall deſires, evidently ten<g ref="char:EOLhyphen"/>ding to enſlave them</p>
+            <p>Though wee will not contend who has done beſt ſervice for their Country, in the time of its ſtraites and neceſſities, yet the presby<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers ſure themſelves will acknowledge with us, that theſe ſorts of men have not been backward in emptying themſelves here at home, and powring out their blood abroad, thinking nothing to deare for their Country, and all in hope that the worke being done, they ſhould per<g ref="char:EOLhyphen"/>ticipate of its peace and freedome; but the enemy being ſubdued, and freedome being now expected of ſerving God according to conſci<g ref="char:EOLhyphen"/>ence, as a recompence for all the miſeries and calamities Independents and Separation have indured for their Country, and amongſt others, for the Presbyters: And inſtead thereof, motions are made that they may be put out of all Offices and imployment in the common wealth (and not only ſo, but it is further intended) by this deſired Ordinance that they may be put in priſon.</p>
+            <p>1. If this dealing be juſt or any waies pleaſing to Almighty God, let the Presbyters themſelves judge? Let it be conſidered firſt, that in matters of Religion, no ſort of men have no juſt power to determine for another: neither are the Presbyters computent judges of the Inde<g ref="char:EOLhyphen"/>pendents or Anabap<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſts &amp;c. no more then they are of the Presbyters.</p>
+            <p>2. That thoſe tenets which are now accounted hereſies, may be in the countenanced truthes of the next age; as what formerly was accounted errour<g ref="char:punc">▪</g> is now eſteemed truth; every man is to ſatisfie his own conſcience, the beſt he can, and doing ſo, walking, likewiſe ac<g ref="char:EOLhyphen"/>cording to his light (which is now principally wanting) it is as much
+<pb n="7" facs="tcp:113826:4"/> as in equity can be deſired; conſider that through the bondage of the Presbyters ſeems not to be included within this Ordinance; yet being and ſetled, the Miniſters having ſuch a foundation to work upon, they will extend it to all, and the Presbyters themſelves not complying in all things to their deſires, ſhall by queſtioning, catechizing, or ſome o<g ref="char:EOLhyphen"/>ther way, be look within in the verge of its power.</p>
+            <p>4. Our bretheren the Presbyterians, having no aſſurance that they ſhall not change their minds, and therefore it may ſo fall out, that the rod they provide for their diſcenting brethren to day, may whip them to morrow, and <hi>Mordecaies</hi> gallowes, may ſerve for <hi>Hamans</hi> exce<g ref="char:EOLhyphen"/>cution,</p>
+            <p>5. We may very well dread the tendenſie of the government w<hi rend="sup">ch</hi> in its firſt deſires is ſo rigid and bloody minded, what will it in time grow up to? what will its corruptions ariſe to? We ſee how frequent it hath been to pervert the end of Lawes, and extend them beyond the intentions of the Law-makers: The Law againſt meetings in private, was intended for the ſecurity of the Nation againſt conſpiracies and traiterous plottings againſt the State: But is waſted by the malitious men, and made to ſerve their turne againſt the godly people, and men beſt affected to the State, meeting together to worſhip and to ſerve God. The Statute a<g ref="char:EOLhyphen"/>gainſt Recuſancy, was intended againſt Papiſts, but they frequently put it in execution againſt the Separation: So that it is very neceſſary to be provident and cauſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us in making Lawes of this nature: ſince crafty men have devices in their braine that good men never dreames of; and though the glory of God be the pretence at preſent; yet upon very good grounds it is to be feared that the principle thing intended in theſe deſires, is to lay ginnes and ſnares to intrap men with all, to ter<g ref="char:EOLhyphen"/>rifie men from a free and neceſſary ſearch into the grounds and origi<g ref="char:EOLhyphen"/>nall of things, and to diſpoſe all men to an eaſie and apt beliefe of what<g ref="char:EOLhyphen"/>ſoever the Synod and learned Church-men ſhall hold forth. It cannot be, Oh yee lovers of the People, but that you deſire the People ſhould be a judicious<g ref="char:punc">▪</g> knowing<g ref="char:punc">▪</g> &amp; underſtanding people; a people eſtabliſhed and grounded upon ſolid principles, begotten by ſerious meditation, and deliberate examination: You cannot but abhor that moſt ſuperſtitious maxime to believe as the Church believes; O doe but conſider; what the Clergy men deſire; and ſee whether it amounts to leſſe, then to barre all ſearch, enquire, or examination, and in time to believe as the Aſſem<g ref="char:EOLhyphen"/>bly believes: atleaſt to profeſſe as they profeſſe, or not the contrary up<g ref="char:EOLhyphen"/>on paine of death, impriſonment, or other puniſhments<g ref="char:punc">▪</g>
+            </p>
+            <pb n="8" facs="tcp:113826:5"/>
+            <p>Certainly if there be need of any ordinance concernieg the Aſſem<g ref="char:EOLunhyphen"/>bly it is for their diſſolution, and that the Parliament would be pleaſed to take a ſurvey of their manifould attempts upon them, and that like ſubtill and bloody <hi>Simon</hi> &amp; <hi>Levy,</hi> in the greateſt exigents and difficulties of their waightieſt affaires, as truſting rather to what neceſſity might enforce, then what juſtice would allow. They have been goads in your ſides, &amp; thornes in your feet, hindering by frequent &amp; politique ſtrata<g ref="char:EOLhyphen"/>gems, your progreſſion towards the peoples good and wealfare; be plea<g ref="char:EOLhyphen"/>ſed therefore in (ſteadof complying with them in theſe vaſt and unreaſo<g ref="char:EOLhyphen"/>nable deſires; admoniſhing them to labour for humble and contented ſpirits: and to yeild ready obedience to the commands of Parliament, by whom they are ordained, and whoſe direction they are to obſerve without diſpute; and that they would not ſpend their time, and ſtuffe their ſermons with State affaires to beget parties, and factions to carry one their own ambitious deſignes.</p>
+            <p>If the Parliament would be pleaſed to anſwer their deſires thus, and to forbeare to make either Ordinances or Lawes of that nature, which their crueltie hath prompted them to deſire, it would manyfeſt ſo great a care of the quietneſſe of the people as would cauſe them to bleſſe their remembrance for ever, and would be their honour to future generati<g ref="char:EOLhyphen"/>ons: and is the moſt zealous deſire of all thoſe that would gladly ſee the quietneſſe and happineſſe of Parliaments and People.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
